@@ -1,12 +1,10 @@
-package com.ipn.escom.sistemas.callingstoredprocedure;
+package com.ipn.escom.sistemas.callingstoredprocedure.utils;
 
 import com.ipn.escom.sistemas.callingstoredprocedure.conexion.Conexion;
 import com.ipn.escom.sistemas.callingstoredprocedure.modelo.Producto;
 import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *

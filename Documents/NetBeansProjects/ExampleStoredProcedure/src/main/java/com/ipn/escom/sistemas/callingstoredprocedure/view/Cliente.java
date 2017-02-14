@@ -5,7 +5,7 @@
  */
 package com.ipn.escom.sistemas.callingstoredprocedure.view;
 
-import com.ipn.escom.sistemas.callingstoredprocedure.CallStoredProcedure;
+import com.ipn.escom.sistemas.callingstoredprocedure.utils.CallStoredProcedure;
 import com.ipn.escom.sistemas.callingstoredprocedure.modelo.Producto;
 import java.sql.SQLException;
 import java.util.logging.Level;

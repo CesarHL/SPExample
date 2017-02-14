@@ -27,8 +27,7 @@ public class Conexion {
             return dbConnection;
 
         } catch (ClassNotFoundException | SQLException e) {
-            //System.out.println(e.getMessage());
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
         return dbConnection;
     }
